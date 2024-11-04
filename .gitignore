@@ -1,0 +1,8 @@
+#Laravel Specific files
+#/vendor
+.env
+.env backup
+.htaccess
+/public/.htaccess
+/storage
+storage/*.key
